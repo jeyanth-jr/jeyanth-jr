@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 
 [![Jeyanth's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jeyanth-jr&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Jeyanth's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| ![Jeyanth's github stats](https://github-readme-stats.vercel.app/api?username=jeyanth-jr&show_icons=true&theme=tokyonight) | ![Jeyanth GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeyanth-jr&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyanth-jr&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=jeyanth-jr&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
