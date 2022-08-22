@@ -3,7 +3,7 @@
 <!--
 **jeyanth-jr/jeyanth-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://www.pngall.com/wp-content/uploads/13/Graffiti-Art-PNG-Photo.png" />
 Here are some ideas to get you started:
  
 - 🌱 I’m currently learning ... Data Science and Machine Learning 
@@ -27,8 +27,24 @@ Here are some ideas to get you started:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+---
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   7 hrs 39 mins   ███████████████████▒░░░░░   76.96 %
+JavaScript   2 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
+SCSS         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+```
+
+<!--END_SECTION:waka-->
+
+---
 [![Jeyanth's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jeyanth-jr&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Jeyanth's github stats](https://github-readme-stats.vercel.app/api?username=jeyanth-jr&show_icons=true&theme=tokyonight) | ![Jeyanth GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeyanth-jr&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyanth-jr&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=jeyanth-jr&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+![madeby](http://ForTheBadge.com/images/badges/built-by-developers.svg)
