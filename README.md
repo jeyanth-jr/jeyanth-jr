@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   7 hrs 39 mins   ███████████████████▒░░░░░   76.96 %
-JavaScript   2 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
-SCSS         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Java         4 hrs 39 mins   ███████████████████▒░░░░░   76.96 %
+Python       0 hrs 30 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
+HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
@@ -46,5 +46,8 @@ Other        3 mins          ░░░░░░░░░░░░░░░░░
 | ![Jeyanth's github stats](https://github-readme-stats.vercel.app/api?username=jeyanth-jr&show_icons=true&theme=tokyonight) | ![Jeyanth GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeyanth-jr&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyanth-jr&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=jeyanth-jr&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![madeby](http://ForTheBadge.com/images/badges/built-by-developers.svg)
+<p align="center">
+  <a>
+  <img  src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+</a>
+</p>
