@@ -8,7 +8,7 @@ Here are some ideas to get you started:
  
 - 🌱 I’m currently learning ... Data Science and Machine Learning 
 - 👯 I’m looking to collaborate on ... Basic programming projects
-- 📫 How to reach me: ...<a  href="mailto:ramanjeyanth3@gmail.com">mail me <img  src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width='20px'></a>
+<!-- 📫 How to reach me: ...<a  href="mailto:ramanjeyanth3@gmail.com">mail me <img  src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width='20px'></a> -->
 - 😄 Pronouns: ... he/him
 
 
