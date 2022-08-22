@@ -2,19 +2,15 @@
 
 <!--
 **jeyanth-jr/jeyanth-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
+ 
 - 🌱 I’m currently learning ... Data Science and Machine Learning 
 - 👯 I’m looking to collaborate on ... Basic programming projects
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...
 - 📫 How to reach me: ... ramanjeyanth3@gmail.com
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ...
--->
-jeyanth-jr
+
 
 <br>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
