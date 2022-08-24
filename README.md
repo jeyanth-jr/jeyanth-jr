@@ -41,7 +41,7 @@ Other        3 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ---
-[![Jeyanth's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jeyanth-jr&theme=tokyonight)](https://git.io/praveenscience)
+[![Jeyanth's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jeyanth-jr&theme=tokyonight)]
 
 | ![Jeyanth's github stats](https://github-readme-stats.vercel.app/api?username=jeyanth-jr&show_icons=true&theme=tokyonight) | ![Jeyanth GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeyanth-jr&theme=tokyonight) |
 | --- | --- |
