@@ -3,7 +3,7 @@
 <!--
 **jeyanth-jr/jeyanth-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img width="55%" align="right" alt="Github" src="https://www.pngall.com/wp-content/uploads/13/Graffiti-Art-PNG-Photo.png" />
+<img width="55%" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-repo-dark.svg" />
 Here are some ideas to get you started:
  
 - 🌱 I’m currently learning ... Data Science and Machine Learning 
