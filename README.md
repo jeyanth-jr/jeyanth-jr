@@ -28,19 +28,6 @@ Here are some ideas to get you started:
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ---
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-Java         4 hrs 39 mins   ███████████████████▒░░░░░   76.96 %
-Python       0 hrs 30 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
-HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-```
-
-<!--END_SECTION:waka-->
-
----
 
 ![Jeyanth's GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeyanth-jr&theme=github_dark)
 
