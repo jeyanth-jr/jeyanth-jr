@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 ---
 
 ![Jeyanth's GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeyanth-jr&theme=github_dark)
-
+ <h3> Leetcode Stats  </h3>
+    
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/greyhatguy007?theme=dark,unicorn)
 | ![Jeyanth's github stats](https://github-readme-stats.vercel.app/api?username=jeyanth-jr&show_icons=true&theme=tokyonight) | ![Jeyanth GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeyanth-jr&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyanth-jr&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=jeyanth-jr&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
