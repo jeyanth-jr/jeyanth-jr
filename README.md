@@ -10,8 +10,6 @@ Here are some ideas to get you started:
 - 💻 I’m currently working on ... AI Agents, SRE Automation and Backend Systems
 - 🤝 I’m looking to collaborate on ... AI/ML, Agentic AI and Software Engineering projects
 <!-- 📫 How to reach me: ...<a href="mailto:ramanjeyanth3@gmail.com">mail me <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width='20px'></a> -->
-- 😄 Pronouns: ... he/him
-
 
 <br>
 <h2> Experience & Tech Stack: <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> </h2>
